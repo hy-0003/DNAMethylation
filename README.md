@@ -87,7 +87,7 @@ If you wish to skip the training process and directly evaluate MEDNA-DFM, we pro
 ## Demo and Website
 For the easiest experience, we will host our models on Hugging Face latter. You can integrate them into your code with just a few lines using the `transformers` library, or try our interactive web demo directly in your browser without any installation:
 
-**[Try the Interactive Web Demo (Hugging Face Space)](https://huggingface.co/hy-0003/weight2)**
+**[Try the Interactive Web Demo (Hugging Face Space)](https://huggingface.co/spaces/hy-0003/MEDNA-DFM-Web)**
 
 
 ## Acknowledgements
